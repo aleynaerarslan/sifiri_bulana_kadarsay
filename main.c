@@ -31,6 +31,5 @@ int main(int argc, char *argv[]) {
 }
 
 
-//Bu kod, kullanıcıdan iki non-negatif tam sayı alır (sırasıyla num1 ve num2), ardından while döngüsünü kullanarak sıfıra ulaşana kadar sayar. if koşulu, num1 >= num2 ise num2'yi num1'den çıkarır, aksi takdirde num1'i num2'den çıkarır. Her işlem yapıldığında, count değişkeni bir artırılır. Döngü bittiğinde, gereken işlem sayısı count değişkeni ile yazdırılır.
 
 
